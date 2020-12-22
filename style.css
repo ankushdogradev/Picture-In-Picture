@@ -1,0 +1,10 @@
+html {
+  /* prevents horizontal scrollbar */
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  /*stretches BG throught the screen */
+  min-height: 100vh;
+}
